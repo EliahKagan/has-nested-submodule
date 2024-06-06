@@ -1,0 +1,3 @@
+[submodule "has-submodule"]
+	path = has-submodule
+	url = git@github.com:EliahKagan/has-submodule.git
